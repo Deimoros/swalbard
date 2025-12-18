@@ -60,5 +60,15 @@ dnf install ...
 **Terminal, browser and file manager:**
 
 ```
-dnf install kitty firefox
+dnf install sway waybar kitty firefox  
 ```
+
+
+# Setup
+
+Copy /etc/sway/config to ~/.config/sway/config 
+
+
+
+
+
